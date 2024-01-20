@@ -15,10 +15,10 @@ from environs import Env
 # environs kutubxonasidan foydalanish
 env = Env()
 env.read_env()
-DB_USER = env.str("DB_USER")
-DB_PASS = env.str("DB_PASS")
-DB_NAME = env.str("DB_NAME")
-DB_HOST = env.str("DB_HOST")
+DB_USER = env.str('DB_USER')
+DB_PASS = env.str('DB_PASS')
+DB_NAME = env.str('DB_NAME')
+DB_HOST = env.str('DB_HOST')
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -84,12 +84,12 @@ WSGI_APPLICATION = 'telegram_bot.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': DB_NAME,
-        'USER': DB_USER,
-        'PASSWORD': DB_PASS,
-        'HOST': DB_HOST,
-        'PORT': '5432'
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'railway',
+        'USER': 'postgres',
+        'PASSWORD': 'A115e2224334D*2G5464G33GgCGb61DB',
+        'HOST': 'monorail.proxy.rlwy.net',
+        'PORT': 26144,
     }
 }
 
@@ -129,7 +129,10 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 import os
-STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+# STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+STATICFILES_DIR = [
+    BASE_DIR / 'static'
+]
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
