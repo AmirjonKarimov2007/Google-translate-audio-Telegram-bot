@@ -8,7 +8,7 @@ from utils.set_bot_commands import set_default_commands
 
 
 async def on_startup(dispatcher):
-    # Birlamchi komandalar (/star va /help)
+    # Birlamchi komandaPlar (/star va /help)
     await db.create()
     # Get the user ID from the incoming update
     await set_default_commands(dispatcher)
