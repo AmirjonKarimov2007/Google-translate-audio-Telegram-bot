@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiogram = "==2.25"
+environs = "~=8.0.0"
+requests = "*"
+pyautogui = "*"
+instapy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

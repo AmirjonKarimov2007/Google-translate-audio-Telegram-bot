@@ -1,0 +1,9 @@
+aiogram==2.25
+environs~=8.0.0
+requests
+pyautogui
+instapy
+asyncpg
+django
+psycopg2-binary
+django-jazzmin==2.6.0
