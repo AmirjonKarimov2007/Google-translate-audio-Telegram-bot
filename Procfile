@@ -1,1 +1,1 @@
-worker: python app.py
+web: gunicorn telegram_bot.wsgi:application
