@@ -1,4 +1,3 @@
-import pyautogui
 import io
 from loader import dp, db, bot
 from aiogram import types
@@ -34,18 +33,6 @@ async def send_table(message: types.Message):
 
     else:
         await message.answer("No users found in the database.")
-@dp.message_handler(commands=['screenshot'],user_id=ADMINS)
-async def send_screenshot(message: types.Message):
-    # Capture the screenshot
-    screenshot = pyautogui.screenshot()
-
-    # Save the screenshot to a BytesIO object
-    image_bytes = io.BytesIO()
-    screenshot.save(image_bytes, format='PNG')
-    image_bytes.seek(0)
-
-    # Send the screenshot as a photo
-    await bot.send_photo(message.chat.id, photo=image_bytes)
 @dp.message_handler(commands='reklama',user_id=ADMINS)
 async def reklama(message: types.Message):
     users = await db.select_all_users()

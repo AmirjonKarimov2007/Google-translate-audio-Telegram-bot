@@ -61,7 +61,6 @@ pillow==10.2.0
 plyer==2.1.0
 protobuf==3.20.3
 psycopg2-binary==2.9.9
-PyAutoGUI==0.9.54
 pydantic==2.5.3
 pydantic_core==2.14.6
 PyGetWindow==0.0.9
@@ -108,4 +107,3 @@ webdriverdownloader==1.1.0.3
 wrapt==1.16.0
 wsproto==1.2.0
 yarl==1.9.4
-gunicorn
