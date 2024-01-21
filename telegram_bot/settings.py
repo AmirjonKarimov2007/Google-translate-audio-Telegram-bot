@@ -131,7 +131,7 @@ import os
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 STATICFILES_DIRS = [
-    BASE_DIR / 'home/amirjon/Desktop/Instagram-Downloader-Telegram-Bot/static',
+    BASE_DIR / '/home/amirjon/Desktop/Instagram-Downloader-Telegram-Bot/static',
 ]
 
 
