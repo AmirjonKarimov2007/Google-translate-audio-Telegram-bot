@@ -1,1038 +1,0 @@
-Script started on 2023-12-07 18:12:03+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="166" LINES="41"]
-
-
-
-
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mudo snap install flutter --classic[39m[34D[4ms[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [33D[38;2;153;153;153mooftooph -a D0:53:49:D0:D5:FC[39m[29D[4ms[4mp[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[4ma[4mn[24m[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'spaln' from deb spaln
-  command 'spin' from deb spin
-  command 'cpan' from deb perl
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'pan' from deb pan
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan[39m[4ms[39m[4mp[24m[4ms[4mp[39m[4ma[24m[4ma[39m[4mn[24m[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'spin' from deb spin
-  command 'cpan' from deb perl
-  command 'spaln' from deb spaln
-  command 'pan' from deb pan
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan[39m[4ms[39m[4mp[24m[4ms[4mp[39m[4ma[24m[4ma[39m[4mm[24m[?1l>[?2004l
-Command 'spam' not found, did you mean:
-  command 'ospam' from deb opensp
-  command 'opam' from deb opam
-  command 'spamc' from deb spamc
-  command 'spamd' from deb spamd
-  command 'spim' from deb spim
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpam[39m[4ms[39m[4mp[24m[4ms[4mp[39m[4ma[24m[4ma[39m[4mn[24m install learn     flutter[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'cpan' from deb perl
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'spin' from deb spin
-  command 'pan' from deb pan
-  command 'spaln' from deb spaln
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1ma[0m[1ma[0m[38;2;153;153;153mpt install flutter[39m[18D[0m[4ma[39m[4mp[24m[24m[36ma[24m[36mp[36mt[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39ms[39m [39m [39m [39m [39m [39m pan[?1l>[?2004l
-[1;31mE: [0mCould not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)[0m
-[1;31mE: [0mUnable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?[0m
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan install flutter[39m[19D[24m[36ms[36mu[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153mdo snap install flutter --classic[39m[33D[39m[4ms[39m[4mu[39m[4md[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[39m [39m[4ms[24m[24m[36ms[36mu[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[?1l>[?2004l
-[sudo] password for amirjon: 
-                                                                                                                                                                      ]0;root@kali: /home/amirjon[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install hello-world[39m[23D[4ms[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[4ms[4mp[4ma[24m[4ma[4mn[24m install span[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'spin' from deb spin
-  command 'spaln' from deb spaln
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'pan' from deb pan
-  command 'cpan' from deb perl
-Try: apt install <deb name>
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan install span[39m[16D[4ms[39m[4mp[24m[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[4ms[24m[38;2;153;153;153mpan install span[39m[16D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[1ma[0m[1ma[0m[38;2;153;153;153mpt install snapd[39m
-[K[A[5C[0m[4ma[39m[4mp[24m[1B[K[A[6C[24m[36ma[24m[36mp[36mt[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39ms[39mp[39m [39m [39m [1B[K[A[18Ca  [38;2;153;153;153mnapd[1B[39m[K[A[17C[39mn[1B[K[A[18C [39m [39m [39m [1B[K[A[17C[38;2;153;153;153mnapd[1B[39m[K[A[17C [39m [39m [39m [39m [1B[K[A[16C[38;2;153;153;153msnapd[1B[39m[K[A[16C[39m [39m [39m [39m [39m [1B[K[A[15C[38;2;153;153;153m snapd[1B[39m[K[A[15C [39m [39m [39m [39m [39m [39m [1B[K[A[14C[38;2;153;153;153ml snapd[1B[39m[K[A[14C [39m [39m [39m [39m [39m [39m [39m [1B[K[A[13C[38;2;153;153;153mll snapd[1B[39m[K[A[13C [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[12C[38;2;153;153;153mall snapd[1B[39m[K[A[12C [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[11C[38;2;153;153;153mtall snapd[1B[39m[K[A[11C [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[10C[38;2;153;153;153mstall snapd[1B[39m[K[A[10C [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[9C[38;2;153;153;153mnstall snapd[1B[39m[K[A[9C [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[8C[38;2;153;153;153minstall snapd[1B[39m[K[A[8C[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[7C[38;2;153;153;153m install snapd[1B[39m[K[A[7C[39m[4ma[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[6C[38;2;153;153;153mt install snapd[1B[39m[K[A[6C[24m[1ma[0m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[5C[1ma[0m[38;2;153;153;153mpt install snapd[1B[39m[K[A[5C[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[4C[4ms[24m[4ms[24m[38;2;153;153;153mpan install span[39m[16D[4ms[39m[4mn[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153map install hello-world[39m[22D[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;2;153;153;153m hello-world[39m[12D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;2;153;153;153ml hello-world[39m[13D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;2;153;153;153mll hello-world[39m[14D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153mall hello-world[39m[15D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[38;2;153;153;153mtall hello-world[39m[16D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;2;153;153;153mstall hello-world[39m[17D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153mnstall hello-world[39m[18D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[38;2;153;153;153minstall hello-world[39m[19D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[38;2;153;153;153m install hello-world[39m[20D[39m[4ms[39m[4mn[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[38;2;153;153;153mp install hello-world[39m[21D[4ms[4mn[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[38;2;153;153;153map install hello-world[39m[22D[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[4ms[24m[38;2;153;153;153mpan install span[39m[16D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[4ms[24m[4ms[24m[38;2;153;153;153mpan install span[39m[16D[4ms[39m[4mn[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153map install hello-world[39m[22D[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[?1l>[?2004l[1Berror: the required argument `<snap> (at least 1 argument)` was not provided
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install[39m[11D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39m [39m [39m [39m [39m [39m [39m [?1l>[?2004l
-The snap command lets you install, configure, refresh and remove snaps.
-Snaps are packages that work across many different Linux distributions,
-enabling secure delivery and operation of the latest apps and utilities.
-
-Usage: snap <command> [<options>...]
-
-Commonly used commands can be classified as follows:
-
-           Basics: find, info, install, remove, list
-          ...more: refresh, revert, switch, disable, enable, create-cohort
-          History: changes, tasks, abort, watch
-          Daemons: services, start, stop, restart, logs
-      Permissions: connections, interface, connect, disconnect
-    Configuration: get, set, unset, wait
-      App Aliases: alias, aliases, unalias, prefer
-          Account: login, logout, whoami
-        Snapshots: saved, save, check-snapshot, restore, forget
-           Device: model, reboot, recovery
-     Quota Groups: set-quota, remove-quota, quotas, quota
-  Validation Sets: validate
-        ... Other: warnings, okay, known, ack, version
-      Development: validate
-
-For more information about a command, run 'snap help <command>'.
-For a short summary of all commands, run 'snap help --all'.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap [39m[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [1ma[0m[0mapt [1mu[0m[0mupdate[?1l>[?2004l
-error: unknown command "apt", see 'snap help'.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap apt update[39m[14D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39m[1ma[0m[0ma[39mp[1ma[0m [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153mpt update[39m[9D[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;2;153;153;153mapt update[39m[10D[39m[1mu[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[0mupdate[?1l>[?2004l
-error: unknown command "update", see 'snap help'.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36msnap[39m update\\   [38;2;153;153;153me[39m [39m [38;2;153;153;153mte[39m [39m [39m [38;2;153;153;153mate[39m [39m [39m [39m [38;2;153;153;153mdate[39m[1mu[0m [39m [39m [39m [39m [38;2;153;153;153mpdate[39m[0mu[39mg[39m [39m [39m [39m rade[?1l>[?2004l
-error: unknown command "ugrade", see 'snap help'.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36ml[39m[36ml[39m[38;2;153;153;153mear[39m[39m[4ml[39m[4mc[24m[39m [39m [38;2;153;153;153mear[39m[24m[36ml[39m[24m [39m [39m [39m [36ml[39m[38;2;153;153;153mear[39m[39m [39m [39m [39m [1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4mf[24m[4mf[4mu[24m[4mf[4mu[4mt[24m[4mt[4mt[24m[4mt[4me[24m[4me[4mr[24m [?1l>[?2004l
-Command 'futter' not found, did you mean:
-  command 'flutter' from snap flutter (0+git.fb97815)
-  command 'mutter' from deb mutter
-  command 'cutter' from deb rizin-cutter
-See 'snap info <snapname>' for additional versions.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap ugrade[39m[10D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39m [39m [39m [39m [39m [38;2;153;153;153mnstall[39m[39mn[39ms[39mt[39ma[39ml[39ml [38;2;153;153;153mhello-world[39m[11D[39mf[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10Dluter      [38;2;153;153;153mhello-world[39m[11D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D [38;2;153;153;153ml[39m [39m [38;2;153;153;153mll[39m [39m [39m [38;2;153;153;153mall[39m [39m [39m [39m [38;2;153;153;153mtall[39m [39m [39m [39m [39m [38;2;153;153;153mstall[39m [39m [39m [39m [39m [39m [38;2;153;153;153mnstall[39m [39m [39m [39m [39m [39m [39m [38;2;153;153;153mugrade[39m[39m [39m [39m [39m [39m [39m [38;2;153;153;153m ugrade[39m[39m[4ms[39m[4mn[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [8D[38;2;153;153;153mp ugrade[39m[8D[4ms[4mn[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153map ugrade[39m[9D[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[4ms[24m[38;2;153;153;153mnap ugrade[39m[10D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[1mc[39m[1mo[0m[39m [39m [39m [0m[4mc[0m[4mo[4mc[24m[4mc[4mi[24m[4mi[4ma[24m[4ma[4mn[24m[?1l>[?2004l
-cocian: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mocian[39m[0m[36mc[36mp[39m[39m [39m [39m [39m [39m[1mc[0m[39m [1mc[0m[38;2;153;153;153mocian[39m[0m [39m [39m [39m [39m [39m [4ms[24m[4ms[24m[38;2;153;153;153mnap ugrade[39m[10D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m[4ms[39m[4mn[39m[4ma[39m[4mp[39m[4mi[24m[39m [39m [39m [39m [39m [39m [4mi[4mn[24m[4mn[4ms[24m[4ms[4mt[24m[4mt[4ma[24m[4mt[24m[24m [4ms[24m[24m [4mn[24m[24m [4mi[24m[24m [24m[36ms[24m[36mn[24m[36ma[24m[36mp[39m[24m [38;2;153;153;153m ugrade[39m[39m [39mi[39m [39m [39m [39m [39m [38;2;153;153;153mnstall[39m[39mn[39ms[39mt[39ma[39ml[39ml [38;2;153;153;153mhello-world[39m[11D[39m[1mc[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[1mc[1mo[0m[0mc[0mocaina[?1l>[?2004l
-error: snap "cocaina" not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mocian[39m[0m[4mc[39m[4ma[24m[39m [39m [39m [39m [4mc[4ma[4mc[24m[4mc[4mo[24m[4mo[4mn[24m[4mn[4ma[24m[4mn[24m[24m [4mo[24m[24m [4mc[24m[24m [4mc[4ma[24m[24m [24m[1mc[0m[24m [1mc[0m[38;2;153;153;153mocian[39m[0m [39m [39m [39m [39m [39m [4ms[24m[4ms[24m[38;2;153;153;153mnap install cocaina[39m[19D[4ms[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153man install span[39m[15D[4ms[4mp[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;2;153;153;153mn install span[39m[14D[4ma[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D [4ma[24m[24m [38;2;153;153;153mn install span[39m[14D[4ms[4mp[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153man install span[39m[15D[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[4ms[24m[38;2;153;153;153mnap install cocaina[39m[19D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39mp[39m [39m [39m [39m [39m [39m gadmin3[?1l>[?2004l
-^C
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36msnap[39m install pgadmin3 [38;2;153;153;153m3[39m[39m4[?1l>[?2004l
-error: snap "pgadmin4" not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36msnap[39m install pgadmin4[?1l>[?2004l
-error: snap "pgadmin4" not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36msnap[39m install pgadmin4 [38;2;153;153;153m4[39m[39m3[?1l>[?2004l
-error: snap "pgadmin3" not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36msnap[39m install pgadmin3 [38;2;153;153;153m3[39m[39m [?1l>[?2004l
-error: snap "pgadmin" not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mocian[39m[0m[4mc[39m[4ml[24m[39m [39m [39m [39m [38;2;153;153;153mear[39m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install pgadmin[39m[19D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39m [39m [39m [39m [39m [39m [39m [39m [39m [8D[38;2;153;153;153ml pgadmin[39m[9D[39ml[39m [39mf[39m [39m [39m [39m [39m [39m lutter[?1l>[?2004l
-error: This revision of snap "flutter" was published using classic confinement and thus may perform
-       arbitrary system changes outside of the security sandbox that snaps are usually confined to,
-       which may put your system at risk.
-
-       If you understand and want to proceed repeat the command including --classic.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[?2004l
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36mclear[39m[36ms[36mn[36ma[36mp[39m[39m install flutter [38;2;153;153;153mr[39m [39m [38;2;153;153;153mer[39m [39m [39m [38;2;153;153;153mter[39m [39m [39m [39m [38;2;153;153;153mtter[39m [39m [39m [39m [39m [38;2;153;153;153mutter[39m [39m [39m [39m [39m [39m [38;2;153;153;153mlutter[39m [39m [39m [39m [39m [39m [39m [38;2;153;153;153mflutter[39m[39m [39m [39m [39m [39m [39m [39m [8D[38;2;153;153;153m flutter[39m[8D [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153ml flutter[39m[9D [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;2;153;153;153mll flutter[39m[10D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[38;2;153;153;153mall flutter[39m[11D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;2;153;153;153mtall flutter[39m[12D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;2;153;153;153mstall flutter[39m[13D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;2;153;153;153mnstall flutter[39m[14D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153minstall flutter[39m[15D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[38;2;153;153;153m install flutter[39m[16D[39m[4ms[39m[4mn[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;2;153;153;153mp install flutter[39m[17D[4ms[4mn[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153map install flutter[39m[18D[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[4ms[24m[38;2;153;153;153mnap install flutter[39m[19D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[4mo[24m[4mo[4m'[24m[4mo[4m'[4ml[24m[4ml[4mi[24m[4mi[4mb[24m[4mb[4m [24m[4m [4mk[24m[4mk[4me[24m[4me[4mt[24m[4mt[4mm[24m[4mm[4ma[24m[4ma[4my[24m[4my[4md[24m[4md[4mi[24m[4mi[4mm[24m[4mm[4mi[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mh[24m[4mh[24m[38;2;153;153;153mow to die easy learn minorj[39m[27D[4mh[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[4mh[4ma[4m [24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mh[24m[4mh[24m[38;2;153;153;153mow to die easy learn minorj[39m[27D[4mh[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mh[24m[4mh[24m[38;2;153;153;153mow to die easy learn minorj[39m[27D[4mh[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ma[24m[4ma[24m[38;2;153;153;153mpt install snapd[39m
-[K[A[8C[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[7C[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4me[24m[4ml[4me[39m[4ma[24m[4ma[39m[4mr[24m[4mr[4mn[24m[4mn[4m [24m[?1l>[?2004l[1B[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mt[24m[4mt[24m[38;2;153;153;153mhunar[39m[4mt[39m[4mo[24m[39m [39m [39m [39m [4mt[4mo[4m [24m[4m [4ml[24m[4ml[4mo[24m[4mo[4mv[24m[4mv[4me[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4mo[24m[39m [39m [4ml[4mo[4mv[24m[4mv[4me[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4me[24m[4ml[4me[39m[4ma[24m[4ma[39m[4mr[24m[4mr[4mn[24m[4mn[4m [24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mt[24m[4mt[24m[38;2;153;153;153mhunar[39m[4mt[39m[4mo[24m[39m [39m [39m [39m [4mt[4mo[4m [24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4mo[24m[39m [39m [4ml[4mo[4me[24m[4ml[4mo[24m[24m [4ml[4mo[4mv[24m[4mv[4me[24m[4me[4m [24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4mi[24m[39m [39m [4ml[4mi[4mc[24m[4mc[4mk[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mp[24m[4mp[24m[38;2;153;153;153msql[39m[4mp[39m[4ms[24m[4mp[4ms[39m[4mu[24m[39m [4mp[4ms[24m[24m [38;2;153;153;153mql[39m[4mp[24m[24m [39m [39m [4mp[24m[38;2;153;153;153msql[39m[24m [39m [39m [39m [4m;[24m[24m [4mi[24m[4mi[24m[38;2;153;153;153mwconfig[39m[24m [39m [39m [39m [39m [39m [39m [39m [8D[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4mi[24m[39m [39m [4ml[4mi[4mk[24m[4mk[4me[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mf[24m[4mf[24m[38;2;153;153;153mutter [39m[4mf[39m[4ma[24m[39m [39m [39m [39m [39m [4mf[4ma[4mt[24m[4mt[4mh[24m[4mh[4me[24m[4me[4mr[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ma[24m[4ma[24m[38;2;153;153;153mpt install snapd[39m
-[K[A[8C[4ma[39m[4mn[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[9C[4ma[4mn[4md[24m[4md[4m [24m[?1l>[?2004l[1B[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[38;2;153;153;153me[38;2;153;153;153m [38;2;153;153;153ml[38;2;153;153;153me[38;2;153;153;153ma[38;2;153;153;153mr[38;2;153;153;153mn[39m[39m [39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[?2004l
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36mclear[39m[36ms[36mn[36ma[36mp[39m[39m install flutter[?1l>[?2004l
-error: This revision of snap "flutter" was published using classic confinement and thus may perform
-       arbitrary system changes outside of the security sandbox that snaps are usually confined to,
-       which may put your system at risk.
-
-       If you understand and want to proceed repeat the command including --classic.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install flutter[39m[19D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39m0[39m [39m [39m [39m [39m [39m c  [38;2;153;153;153mflutter[39m[32m-[39m[39m [39m [39m [39m [39m [39m [32m-[32mc[39m[32mc[32ml[39m[32ml[32ma[39m[32ma[32ms[39m[32ms[32ms[39m[32ms[32md[39m[32md[32mi[39m[32md[39m[39m [32ms[39m[39m [32ms[32mi[39m[32mi[32mc[39m [?1l>[?2004l
-error: unknown flag `c'
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[1ma[0m[38;2;153;153;153mpt install snapd[39m
-[K[A[5C[1ma[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[5C[?1l>[?2004l[1Ba: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-a[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-aa: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-aa: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-aa: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-aa: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-aa: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-a: command not found
-
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36ml[39m[36ml[39m[38;2;153;153;153mear[39m[36ml[39m[39m [39m [39m [?1l>[?2004l
- [0m[01;34mCloud[0m/       [01;34mMusic[0m/          [01;34mPycharmProjects[0m/           a                             typescript     yangi-01.kismet.csv      yangi-02.csv
- [01;34mDesktop[0m/     [01;34mMySql_Course[0m/  [01;34m"Telegram_Channel's_Bot"[0m/   [01;34mcourse_cert_using_selenium[0m/   untitled.py    yangi-01.kismet.netxml   yangi-02.kismet.csv
- [01;34mDocuments[0m/   [01;34mPictures[0m/       [01;34mTemplates[0m/                 main.py                       yangi-01.cap   yangi-01.log.csv         yangi-02.kismet.netxml
- [01;34mDownloads[0m/   [01;34mPublic[0m/         [01;34mVideos[0m/                    mainn.py                      yangi-01.csv   yangi-02.cap             yangi-02.log.csv
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install -classic [39m[21D[4ms[39m[4mc[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[38;2;153;153;153mrcpy[39m[4ms[4mc[39m[4ml[24m[39m [39m [39m [?1l>[?2004l
-eaCommand 'scl' not found, but there are 16 similar ones.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004he[4me[4ma[24m[4me[4ma[4mr[24m[?1l>[?2004l
-cCommand 'ear' not found, did you mean:
-  command 'dar' from deb dar
-  command 'kar' from deb sra-toolkit
-  command 'rear' from deb rear
-  command 'car' from deb ucommon-utils
-  command 'bar' from deb bar
-  command 'rar' from deb rar
-  command 'bear' from deb bear
-  command 'pear' from deb php-pear
-  command 'emar' from deb emscripten
-  command 'par' from deb par
-  command 'tar' from deb tar
-  command 'ar' from deb binutils
-Try: apt install <deb name>
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-l[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004hc[4mc[4ml[24m[38;2;153;153;153mear[39m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36ml[39m[?1l>[?2004l
- [0m[01;34mCloud[0m/       [01;34mMusic[0m/          [01;34mPycharmProjects[0m/           a                             typescript     yangi-01.kismet.csv      yangi-02.csv
- [01;34mDesktop[0m/     [01;34mMySql_Course[0m/  [01;34m"Telegram_Channel's_Bot"[0m/   [01;34mcourse_cert_using_selenium[0m/   untitled.py    yangi-01.kismet.netxml   yangi-02.kismet.csv
- [01;34mDocuments[0m/   [01;34mPictures[0m/       [01;34mTemplates[0m/                 main.py                       yangi-01.cap   yangi-01.log.csv         yangi-02.kismet.netxml
- [01;34mDownloads[0m/   [01;34mPublic[0m/         [01;34mVideos[0m/                    mainn.py                      yangi-01.csv   yangi-02.cap             yangi-02.log.csv
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mcl[39m[4ms[24m[39m [39m [?1l>[?2004l
-s: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36ml[39m[36ml[36ms[39m[38;2;153;153;153m chromedriver[39m[13D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[?1l>[?2004l
- [0m[01;34mCloud[0m       [01;34mMusic[0m          [01;34mPycharmProjects[0m           a                            typescript     yangi-01.kismet.csv      yangi-02.csv
- [01;34mDesktop[0m     [01;34mMySql_Course[0m  [01;34m"Telegram_Channel's_Bot"[0m   [01;34mcourse_cert_using_selenium[0m   untitled.py    yangi-01.kismet.netxml   yangi-02.kismet.csv
- [01;34mDocuments[0m   [01;34mPictures[0m       [01;34mTemplates[0m                 main.py                      yangi-01.cap   yangi-01.log.csv         yangi-02.kismet.netxml
- [01;34mDownloads[0m   [01;34mPublic[0m         [01;34mVideos[0m                    mainn.py                     yangi-01.csv   yangi-02.cap             yangi-02.log.csv
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[4me[24m[24m [39m [38;2;153;153;153mar[39m[4mc[4ml[24m[24m [39m [39m [38;2;153;153;153mear[39m[24m[1mc[0m[24m [39m [39m [39m [1mc[0m[38;2;153;153;153mlear[39m[0m [39m [39m [39m [39m [36ml[39m[36ml[39m[38;2;153;153;153ms[39m[36ml[36ms[39m[?1l>[?2004l
- [0m[01;34mCloud[0m       [01;34mMusic[0m          [01;34mPycharmProjects[0m           a                            typescript     yangi-01.kismet.csv      yangi-02.csv
- [01;34mDesktop[0m     [01;34mMySql_Course[0m  [01;34m"Telegram_Channel's_Bot"[0m   [01;34mcourse_cert_using_selenium[0m   untitled.py    yangi-01.kismet.netxml   yangi-02.kismet.csv
- [01;34mDocuments[0m   [01;34mPictures[0m       [01;34mTemplates[0m                 main.py                      yangi-01.cap   yangi-01.log.csv         yangi-02.kismet.netxml
- [01;34mDownloads[0m   [01;34mPublic[0m         [01;34mVideos[0m                    mainn.py                     yangi-01.csv   yangi-02.cap             yangi-02.log.csv
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36mr[39m[36mr[39m[38;2;153;153;153mgit[39m[36mr[36mm[39m[39m [39m [38;2;153;153;153m -rf media/cdrom[39m[16D[36mr[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[36mr[39m[38;2;153;153;153mgit[39m[39m [39m [39m [39m [1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ma[24m[39m [39m [39m [24m[36mc[24m[36ma[36mt[39m [1mt[0m[1mt[1my[0m[1my[1mpescript[0m[1m [0m[0m [?1l>[?2004l
-Script started on 2023-12-07 18:12:03+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="166" LINES="41"]
-
-
-
-
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mudo snap install flutter --classic[39m[34D[4ms[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [33D[38;2;153;153;153mooftooph -a D0:53:49:D0:D5:FC[39m[29D[4ms[4mp[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[4ma[4mn[24m[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'spaln' from deb spaln
-  command 'spin' from deb spin
-  command 'cpan' from deb perl
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'pan' from deb pan
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan[39m[4ms[39m[4mp[24m[4ms[4mp[39m[4ma[24m[4ma[39m[4mn[24m[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'spin' from deb spin
-  command 'cpan' from deb perl
-  command 'spaln' from deb spaln
-  command 'pan' from deb pan
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan[39m[4ms[39m[4mp[24m[4ms[4mp[39m[4ma[24m[4ma[39m[4mm[24m[?1l>[?2004l
-Command 'spam' not found, did you mean:
-  command 'ospam' from deb opensp
-  command 'opam' from deb opam
-  command 'spamc' from deb spamc
-  command 'spamd' from deb spamd
-  command 'spim' from deb spim
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpam[39m[4ms[39m[4mp[24m[4ms[4mp[39m[4ma[24m[4ma[39m[4mn[24m install learn     flutter[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'cpan' from deb perl
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'spin' from deb spin
-  command 'pan' from deb pan
-  command 'spaln' from deb spaln
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1ma[0m[1ma[0m[38;2;153;153;153mpt install flutter[39m[18D[0m[4ma[39m[4mp[24m[24m[36ma[24m[36mp[36mt[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39ms[39m [39m [39m [39m [39m [39m pan[?1l>[?2004l
-[1;31mE: [0mCould not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)[0m
-[1;31mE: [0mUnable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?[0m
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan install flutter[39m[19D[24m[36ms[36mu[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153mdo snap install flutter --classic[39m[33D[39m[4ms[39m[4mu[39m[4md[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[39m [39m[4ms[24m[24m[36ms[36mu[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[?1l>[?2004l
-[sudo] password for amirjon: 
-                                                                                                                                                                      ]0;root@kali: /home/amirjon[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install hello-world[39m[23D[4ms[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[4ms[4mp[4ma[24m[4ma[4mn[24m install span[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'spin' from deb spin
-  command 'spaln' from deb spaln
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'pan' from deb pan
-  command 'cpan' from deb perl
-Try: apt install <deb name>
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan install span[39m[16D[4ms[39m[4mp[24m[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[4ms[24m[38;2;153;153;153mpan install span[39m[16D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[1ma[0m[1ma[0m[38;2;153;153;153mpt install snapd[39m
-[K[A[5C[0m[4ma[39m[4mp[24m[1B[K[A[6C[24m[36ma[24m[36mp[36mt[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39ms[39mp[39m [39m [39m [1B[K[A[18Ca  [38;2;153;153;153mnapd[1B[39m[K[A[17C[39mn[1B[K[A[18C [39m [39m [39m [1B[K[A[17C[38;2;153;153;153mnapd[1B[39m[K[A[17C [39m [39m [39m [39m [1B[K[A[16C[38;2;153;153;153msnapd[1B[39m[K[A[16C[39m [39m [39m [39m [39m [1B[K[A[15C[38;2;153;153;153m snapd[1B[39m[K[A[15C [39m [39m [39m [39m [39m [39m [1B[K[A[14C[38;2;153;153;153ml snapd[1B[39m[K[A[14C [39m [39m [39m [39m [39m [39m [39m [1B[K[A[13C[38;2;153;153;153mll snapd[1B[39m[K[A[13C [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[12C[38;2;153;153;153mall snapd[1B[39m[K[A[12C [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[11C[38;2;153;153;153mtall snapd[1B[39m[K[A[11C [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[10C[38;2;153;153;153mstall snapd[1B[39m[K[A[10C [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[9C[38;2;153;153;153mnstall snapd[1B[39m[K[A[9C [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[8C[38;2;153;153;153minstall snapd[1B[39m[K[A[8C[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[7C[38;2;153;153;153m install snapd[1B[39m[K[A[7C[39m[4ma[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[6C[38;2;153;153;153mt install snapd[1B[39m[K[A[6C[24m[1ma[0m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[5C[1ma[0m[38;2;153;153;153mpt install snapd[1B[39m[K[A[5C[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[4C[4ms[24m[4ms[24m[38;2;153;153;153mpan install span[39m[16D[4ms[39m[4mn[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153map install hello-world[39m[22D[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;2;153;153;153m hello-world[39m[12D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;2;153;153;153ml hello-world[39m[13D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;2;153;153;153mll hello-world[39m[14D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153mall hello-world[39m[15D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[38;2;153;153;153mtall hello-world[39m[16D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;2;153;153;153mstall hello-world[39m[17D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153mnstall hello-world[39m[18D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[38;2;153;153;153minstall hello-world[39m[19D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[38;2;153;153;153m install hello-world[39m[20D[39m[4ms[39m[4mn[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[38;2;153;153;153mp install hello-world[39m[21D[4ms[4mn[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[38;2;153;153;153map install hello-world[39m[22D[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[4ms[24m[38;2;153;153;153mpan install span[39m[16D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[4ms[24m[4ms[24m[38;2;153;153;153mpan install span[39m[16D[4ms[39m[4mn[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153map install hello-world[39m[22D[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[?1l>[?2004l[1Berror: the required argument `<snap> (at least 1 argument)` was not provided
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install[39m[11D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39m [39m [39m [39m [39m [39m [39m [?1l>[?2004l
-The snap command lets you install, configure, refresh and remove snaps.
-Snaps are packages that work across many different Linux distributions,
-enabling secure delivery and operation of the latest apps and utilities.
-
-Usage: snap <command> [<options>...]
-
-Commonly used commands can be classified as follows:
-
-           Basics: find, info, install, remove, list
-          ...more: refresh, revert, switch, disable, enable, create-cohort
-          History: changes, tasks, abort, watch
-          Daemons: services, start, stop, restart, logs
-      Permissions: connections, interface, connect, disconnect
-    Configuration: get, set, unset, wait
-      App Aliases: alias, aliases, unalias, prefer
-          Account: login, logout, whoami
-        Snapshots: saved, save, check-snapshot, restore, forget
-           Device: model, reboot, recovery
-     Quota Groups: set-quota, remove-quota, quotas, quota
-  Validation Sets: validate
-        ... Other: warnings, okay, known, ack, version
-      Development: validate
-
-For more information about a command, run 'snap help <command>'.
-For a short summary of all commands, run 'snap help --all'.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap [39m[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [1ma[0m[0mapt [1mu[0m[0mupdate[?1l>[?2004l
-error: unknown command "apt", see 'snap help'.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap apt update[39m[14D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39m[1ma[0m[0ma[39mp[1ma[0m [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153mpt update[39m[9D[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;2;153;153;153mapt update[39m[10D[39m[1mu[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[0mupdate[?1l>[?2004l
-error: unknown command "update", see 'snap help'.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36msnap[39m update\\   [38;2;153;153;153me[39m [39m [38;2;153;153;153mte[39m [39m [39m [38;2;153;153;153mate[39m [39m [39m [39m [38;2;153;153;153mdate[39m[1mu[0m [39m [39m [39m [39m [38;2;153;153;153mpdate[39m[0mu[39mg[39m [39m [39m [39m rade[?1l>[?2004l
-error: unknown command "ugrade", see 'snap help'.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36ml[39m[36ml[39m[38;2;153;153;153mear[39m[39m[4ml[39m[4mc[24m[39m [39m [38;2;153;153;153mear[39m[24m[36ml[39m[24m [39m [39m [39m [36ml[39m[38;2;153;153;153mear[39m[39m [39m [39m [39m [1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4mf[24m[4mf[4mu[24m[4mf[4mu[4mt[24m[4mt[4mt[24m[4mt[4me[24m[4me[4mr[24m [?1l>[?2004l
-Command 'futter' not found, did you mean:
-  command 'flutter' from snap flutter (0+git.fb97815)
-  command 'mutter' from deb mutter
-  command 'cutter' from deb rizin-cutter
-See 'snap info <snapname>' for additional versions.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap ugrade[39m[10D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39m [39m [39m [39m [39m [38;2;153;153;153mnstall[39m[39mn[39ms[39mt[39ma[39ml[39ml [38;2;153;153;153mhello-world[39m[11D[39mf[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10Dluter      [38;2;153;153;153mhello-world[39m[11D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D [38;2;153;153;153ml[39m [39m [38;2;153;153;153mll[39m [39m [39m [38;2;153;153;153mall[39m [39m [39m [39m [38;2;153;153;153mtall[39m [39m [39m [39m [39m [38;2;153;153;153mstall[39m [39m [39m [39m [39m [39m [38;2;153;153;153mnstall[39m [39m [39m [39m [39m [39m [39m [38;2;153;153;153mugrade[39m[39m [39m [39m [39m [39m [39m [38;2;153;153;153m ugrade[39m[39m[4ms[39m[4mn[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [8D[38;2;153;153;153mp ugrade[39m[8D[4ms[4mn[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153map ugrade[39m[9D[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[4ms[24m[38;2;153;153;153mnap ugrade[39m[10D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[1mc[39m[1mo[0m[39m [39m [39m [0m[4mc[0m[4mo[4mc[24m[4mc[4mi[24m[4mi[4ma[24m[4ma[4mn[24m[?1l>[?2004l
-cocian: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mocian[39m[0m[36mc[36mp[39m[39m [39m [39m [39m [39m[1mc[0m[39m [1mc[0m[38;2;153;153;153mocian[39m[0m [39m [39m [39m [39m [39m [4ms[24m[4ms[24m[38;2;153;153;153mnap ugrade[39m[10D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m[4ms[39m[4mn[39m[4ma[39m[4mp[39m[4mi[24m[39m [39m [39m [39m [39m [39m [4mi[4mn[24m[4mn[4ms[24m[4ms[4mt[24m[4mt[4ma[24m[4mt[24m[24m [4ms[24m[24m [4mn[24m[24m [4mi[24m[24m [24m[36ms[24m[36mn[24m[36ma[24m[36mp[39m[24m [38;2;153;153;153m ugrade[39m[39m [39mi[39m [39m [39m [39m [39m [38;2;153;153;153mnstall[39m[39mn[39ms[39mt[39ma[39ml[39ml [38;2;153;153;153mhello-world[39m[11D[39m[1mc[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[1mc[1mo[0m[0mc[0mocaina[?1l>[?2004l
-error: snap "cocaina" not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mocian[39m[0m[4mc[39m[4ma[24m[39m [39m [39m [39m [4mc[4ma[4mc[24m[4mc[4mo[24m[4mo[4mn[24m[4mn[4ma[24m[4mn[24m[24m [4mo[24m[24m [4mc[24m[24m [4mc[4ma[24m[24m [24m[1mc[0m[24m [1mc[0m[38;2;153;153;153mocian[39m[0m [39m [39m [39m [39m [39m [4ms[24m[4ms[24m[38;2;153;153;153mnap install cocaina[39m[19D[4ms[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153man install span[39m[15D[4ms[4mp[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;2;153;153;153mn install span[39m[14D[4ma[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D [4ma[24m[24m [38;2;153;153;153mn install span[39m[14D[4ms[4mp[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153man install span[39m[15D[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[4ms[24m[38;2;153;153;153mnap install cocaina[39m[19D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39mp[39m [39m [39m [39m [39m [39m gadmin3[?1l>[?2004l
-^C
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36msnap[39m install pgadmin3 [38;2;153;153;153m3[39m[39m4[?1l>[?2004l
-error: snap "pgadmin4" not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36msnap[39m install pgadmin4[?1l>[?2004l
-error: snap "pgadmin4" not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36msnap[39m install pgadmin4 [38;2;153;153;153m4[39m[39m3[?1l>[?2004l
-error: snap "pgadmin3" not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36msnap[39m install pgadmin3 [38;2;153;153;153m3[39m[39m [?1l>[?2004l
-error: snap "pgadmin" not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mocian[39m[0m[4mc[39m[4ml[24m[39m [39m [39m [39m [38;2;153;153;153mear[39m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install pgadmin[39m[19D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39m [39m [39m [39m [39m [39m [39m [39m [39m [8D[38;2;153;153;153ml pgadmin[39m[9D[39ml[39m [39mf[39m [39m [39m [39m [39m [39m lutter[?1l>[?2004l
-error: This revision of snap "flutter" was published using classic confinement and thus may perform
-       arbitrary system changes outside of the security sandbox that snaps are usually confined to,
-       which may put your system at risk.
-
-       If you understand and want to proceed repeat the command including --classic.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[?2004l
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36mclear[39m[36ms[36mn[36ma[36mp[39m[39m install flutter [38;2;153;153;153mr[39m [39m [38;2;153;153;153mer[39m [39m [39m [38;2;153;153;153mter[39m [39m [39m [39m [38;2;153;153;153mtter[39m [39m [39m [39m [39m [38;2;153;153;153mutter[39m [39m [39m [39m [39m [39m [38;2;153;153;153mlutter[39m [39m [39m [39m [39m [39m [39m [38;2;153;153;153mflutter[39m[39m [39m [39m [39m [39m [39m [39m [8D[38;2;153;153;153m flutter[39m[8D [39m [39m [39m [39m [39m [39m [39m [39m [9D[38;2;153;153;153ml flutter[39m[9D [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[38;2;153;153;153mll flutter[39m[10D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [11D[38;2;153;153;153mall flutter[39m[11D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;2;153;153;153mtall flutter[39m[12D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;2;153;153;153mstall flutter[39m[13D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;2;153;153;153mnstall flutter[39m[14D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153minstall flutter[39m[15D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[38;2;153;153;153m install flutter[39m[16D[39m[4ms[39m[4mn[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;2;153;153;153mp install flutter[39m[17D[4ms[4mn[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153map install flutter[39m[18D[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[4ms[24m[38;2;153;153;153mnap install flutter[39m[19D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[4mo[24m[4mo[4m'[24m[4mo[4m'[4ml[24m[4ml[4mi[24m[4mi[4mb[24m[4mb[4m [24m[4m [4mk[24m[4mk[4me[24m[4me[4mt[24m[4mt[4mm[24m[4mm[4ma[24m[4ma[4my[24m[4my[4md[24m[4md[4mi[24m[4mi[4mm[24m[4mm[4mi[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mh[24m[4mh[24m[38;2;153;153;153mow to die easy learn minorj[39m[27D[4mh[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[4mh[4ma[4m [24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mh[24m[4mh[24m[38;2;153;153;153mow to die easy learn minorj[39m[27D[4mh[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mh[24m[4mh[24m[38;2;153;153;153mow to die easy learn minorj[39m[27D[4mh[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [26D[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ma[24m[4ma[24m[38;2;153;153;153mpt install snapd[39m
-[K[A[8C[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[7C[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4me[24m[4ml[4me[39m[4ma[24m[4ma[39m[4mr[24m[4mr[4mn[24m[4mn[4m [24m[?1l>[?2004l[1B[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mt[24m[4mt[24m[38;2;153;153;153mhunar[39m[4mt[39m[4mo[24m[39m [39m [39m [39m [4mt[4mo[4m [24m[4m [4ml[24m[4ml[4mo[24m[4mo[4mv[24m[4mv[4me[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4mo[24m[39m [39m [4ml[4mo[4mv[24m[4mv[4me[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4me[24m[4ml[4me[39m[4ma[24m[4ma[39m[4mr[24m[4mr[4mn[24m[4mn[4m [24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mt[24m[4mt[24m[38;2;153;153;153mhunar[39m[4mt[39m[4mo[24m[39m [39m [39m [39m [4mt[4mo[4m [24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4mo[24m[39m [39m [4ml[4mo[4me[24m[4ml[4mo[24m[24m [4ml[4mo[4mv[24m[4mv[4me[24m[4me[4m [24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4mi[24m[39m [39m [4ml[4mi[4mc[24m[4mc[4mk[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mp[24m[4mp[24m[38;2;153;153;153msql[39m[4mp[39m[4ms[24m[4mp[4ms[39m[4mu[24m[39m [4mp[4ms[24m[24m [38;2;153;153;153mql[39m[4mp[24m[24m [39m [39m [4mp[24m[38;2;153;153;153msql[39m[24m [39m [39m [39m [4m;[24m[24m [4mi[24m[4mi[24m[38;2;153;153;153mwconfig[39m[24m [39m [39m [39m [39m [39m [39m [39m [8D[4ml[24m[4ml[24m[38;2;153;153;153mear[39m[4ml[39m[4mi[24m[39m [39m [4ml[4mi[4mk[24m[4mk[4me[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4mf[24m[4mf[24m[38;2;153;153;153mutter [39m[4mf[39m[4ma[24m[39m [39m [39m [39m [39m [4mf[4ma[4mt[24m[4mt[4mh[24m[4mh[4me[24m[4me[4mr[24m[?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4ma[24m[4ma[24m[38;2;153;153;153mpt install snapd[39m
-[K[A[8C[4ma[39m[4mn[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[9C[4ma[4mn[4md[24m[4md[4m [24m[?1l>[?2004l[1B[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[4md[24m[4md[24m[38;2;153;153;153ma[39m[4md[39m[4mi[24m[38;2;153;153;153me learn[39m[4md[4mi[39m[4me[24m[38;2;153;153;153me[38;2;153;153;153m [38;2;153;153;153ml[38;2;153;153;153me[38;2;153;153;153ma[38;2;153;153;153mr[38;2;153;153;153mn[39m[39m [39m [39m [39m [39m [39m [39m [?1l>[?2004l
-[0m[27m[24m[Jquote> [K[?1h=[?2004h[?2004l
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36mclear[39m[36ms[36mn[36ma[36mp[39m[39m install flutter[?1l>[?2004l
-error: This revision of snap "flutter" was published using classic confinement and thus may perform
-       arbitrary system changes outside of the security sandbox that snaps are usually confined to,
-       which may put your system at risk.
-
-       If you understand and want to proceed repeat the command including --classic.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install flutter[39m[19D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39m0[39m [39m [39m [39m [39m [39m c  [38;2;153;153;153mflutter[39m[32m-[39m[39m [39m [39m [39m [39m [39m [32m-[32mc[39m[32mc[32ml[39m[32ml[32ma[39m[32ma[32ms[39m[32ms[32ms[39m[32ms[32md[39m[32md[32mi[39m[32md[39m[39m [32ms[39m[39m [32ms[32mi[39m[32mi[32mc[39m [?1l>[?2004l
-error: unknown flag `c'
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[1ma[0m[38;2;153;153;153mpt install snapd[39m
-[K[A[5C[1ma[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[5C[?1l>[?2004l[1Ba: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-a[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-aa: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-aa: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-aa: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-aa: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-aa: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1ma[0m[?1l>[?2004l
-a: command not found
-
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36ml[39m[36ml[39m[38;2;153;153;153mear[39m[36ml[39m[39m [39m [39m [?1l>[?2004l
- [0m[01;34mCloud[0m/       [01;34mMusic[0m/          [01;34mPycharmProjects[0m/           a                             typescript     yangi-01.kismet.csv      yangi-02.csv
- [01;34mDesktop[0m/     [01;34mMySql_Course[0m/  [01;34m"Telegram_Channel's_Bot"[0m/   [01;34mcourse_cert_using_selenium[0m/   untitled.py    yangi-01.kismet.netxml   yangi-02.kismet.csv
- [01;34mDocuments[0m/   [01;34mPictures[0m/       [01;34mTemplates[0m/                 main.py                       yangi-01.cap   yangi-01.log.csv         yangi-02.kismet.netxml
- [01;34mDownloads[0m/   [01;34mPublic[0m/         [01;34mVideos[0m/                    mainn.py                      yangi-01.csv   yangi-02.cap             yangi-02.log.csv
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install -classic [39m[21D[4ms[39m[4mc[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[38;2;153;153;153mrcpy[39m[4ms[4mc[39m[4ml[24m[39m [39m [39m [?1l>[?2004l
-eaCommand 'scl' not found, but there are 16 similar ones.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004he[4me[4ma[24m[4me[4ma[4mr[24m[?1l>[?2004l
-cCommand 'ear' not found, did you mean:
-  command 'dar' from deb dar
-  command 'kar' from deb sra-toolkit
-  command 'rear' from deb rear
-  command 'car' from deb ucommon-utils
-  command 'bar' from deb bar
-  command 'rar' from deb rar
-  command 'bear' from deb bear
-  command 'pear' from deb php-pear
-  command 'emar' from deb emscripten
-  command 'par' from deb par
-  command 'tar' from deb tar
-  command 'ar' from deb binutils
-Try: apt install <deb name>
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-l[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004hc[4mc[4ml[24m[38;2;153;153;153mear[39m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36ml[39m[?1l>[?2004l
- [0m[01;34mCloud[0m/       [01;34mMusic[0m/          [01;34mPycharmProjects[0m/           a                             typescript     yangi-01.kismet.csv      yangi-02.csv
- [01;34mDesktop[0m/     [01;34mMySql_Course[0m/  [01;34m"Telegram_Channel's_Bot"[0m/   [01;34mcourse_cert_using_selenium[0m/   untitled.py    yangi-01.kismet.netxml   yangi-02.kismet.csv
- [01;34mDocuments[0m/   [01;34mPictures[0m/       [01;34mTemplates[0m/                 main.py                       yangi-01.cap   yangi-01.log.csv         yangi-02.kismet.netxml
- [01;34mDownloads[0m/   [01;34mPublic[0m/         [01;34mVideos[0m/                    mainn.py                      yangi-01.csv   yangi-02.cap             yangi-02.log.csv
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mcl[39m[4ms[24m[39m [39m [?1l>[?2004l
-s: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36ml[39m[36ml[36ms[39m[38;2;153;153;153m chromedriver[39m[13D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[?1l>[?2004l
- [0m[01;34mCloud[0m       [01;34mMusic[0m          [01;34mPycharmProjects[0m           a                            typescript     yangi-01.kismet.csv      yangi-02.csv
- [01;34mDesktop[0m     [01;34mMySql_Course[0m  [01;34m"Telegram_Channel's_Bot"[0m   [01;34mcourse_cert_using_selenium[0m   untitled.py    yangi-01.kismet.netxml   yangi-02.kismet.csv
- [01;34mDocuments[0m   [01;34mPictures[0m       [01;34mTemplates[0m                 main.py                      yangi-01.cap   yangi-01.log.csv         yangi-02.kismet.netxml
- [01;34mDownloads[0m   [01;34mPublic[0m         [01;34mVideos[0m                    mainn.py                     yangi-01.csv   yangi-02.cap             yangi-02.log.csv
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[4me[24m[24m [39m [38;2;153;153;153mar[39m[4mc[4ml[24m[24m [39m [39m [38;2;153;153;153mear[39m[24m[1mc[0m[24m [39m [39m [39m [1mc[0m[38;2;153;153;153mlear[39m[0m [39m [39m [39m [39m [36ml[39m[36ml[39m[38;2;153;153;153ms[39m[36ml[36ms[39m[?1l>[?2004l
- [0m[01;34mCloud[0m       [01;34mMusic[0m          [01;34mPycharmProjects[0m           a                            typescript     yangi-01.kismet.csv      yangi-02.csv
- [01;34mDesktop[0m     [01;34mMySql_Course[0m  [01;34m"Telegram_Channel's_Bot"[0m   [01;34mcourse_cert_using_selenium[0m   untitled.py    yangi-01.kismet.netxml   yangi-02.kismet.csv
- [01;34mDocuments[0m   [01;34mPictures[0m       [01;34mTemplates[0m                 main.py                      yangi-01.cap   yangi-01.log.csv         yangi-02.kismet.netxml
- [01;34mDownloads[0m   [01;34mPublic[0m         [01;34mVideos[0m                    mainn.py                     yangi-01.csv   yangi-02.cap             yangi-02.log.csv
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[36mr[39m[36mr[39m[38;2;153;153;153mgit[39m[36mr[36mm[39m[39m [39m [38;2;153;153;153m -rf media/cdrom[39m[16D[36mr[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[36mr[39m[38;2;153;153;153mgit[39m[39m [39m [39m [39m [1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ma[24m[39m [39m [39m [24m[36mc[24m[36ma[36mt[39m [1mt[0m[1mt[1my[0m[1my[1mpescript[0m[1m [0m[0m [?1l>[?2004l
-Script started on 2023-12-07 18:12:03+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="166" LINES="41"]
-
-
-
-
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[?1l>[?2004l
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mudo snap install flutter --classic[39m[34D[4ms[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [33D[38;2;153;153;153mooftooph -a D0:53:49:D0:D5:FC[39m[29D[4ms[4mp[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[4ma[4mn[24m[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'spaln' from deb spaln
-  command 'spin' from deb spin
-  command 'cpan' from deb perl
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'pan' from deb pan
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan[39m[4ms[39m[4mp[24m[4ms[4mp[39m[4ma[24m[4ma[39m[4mn[24m[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'spin' from deb spin
-  command 'cpan' from deb perl
-  command 'spaln' from deb spaln
-  command 'pan' from deb pan
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan[39m[4ms[39m[4mp[24m[4ms[4mp[39m[4ma[24m[4ma[39m[4mm[24m[?1l>[?2004l
-Command 'spam' not found, did you mean:
-  command 'ospam' from deb opensp
-  command 'opam' from deb opam
-  command 'spamc' from deb spamc
-  command 'spamd' from deb spamd
-  command 'spim' from deb spim
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpam[39m[4ms[39m[4mp[24m[4ms[4mp[39m[4ma[24m[4ma[39m[4mn[24m install learn     flutter[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'cpan' from deb perl
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'spin' from deb spin
-  command 'pan' from deb pan
-  command 'spaln' from deb spaln
-Try: sudo apt install <deb name>
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1ma[0m[1ma[0m[38;2;153;153;153mpt install flutter[39m[18D[0m[4ma[39m[4mp[24m[24m[36ma[24m[36mp[36mt[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39ms[39m [39m [39m [39m [39m [39m pan[?1l>[?2004l
-[1;31mE: [0mCould not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)[0m
-[1;31mE: [0mUnable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?[0m
-                                                                                                                                                                      ]0;amirjon@kali: ~
-[0m[27m[24m[J[32m┌──([1m[32m[34mamirjon㉿kali[0m[34m[32m)-[[1m[32m[39m~[0m[32m]
-└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan install flutter[39m[19D[24m[36ms[36mu[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153mdo snap install flutter --classic[39m[33D[39m[4ms[39m[4mu[39m[4md[24m[4m[32ms[4m[32mu[4m[32md[4m[32mo[24m[39m[39m [39m[4ms[24m[24m[36ms[36mu[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [28D[?1l>[?2004l
-[sudo] password for amirjon: 
-                                                                                                                                                                      ]0;root@kali: /home/amirjon[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install hello-world[39m[23D[4ms[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[4ms[4mp[4ma[24m[4ma[4mn[24m install span[?1l>[?2004l
-Command 'span' not found, did you mean:
-  command 'spin' from deb spin
-  command 'spaln' from deb spaln
-  command 'scan' from deb dvb-apps
-  command 'scan' from deb mmh
-  command 'scan' from deb nmh
-  command 'scan' from deb mailutils-mh
-  command 'pan' from deb pan
-  command 'cpan' from deb perl
-Try: apt install <deb name>
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mpan install span[39m[16D[4ms[39m[4mp[24m[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[4ms[24m[38;2;153;153;153mpan install span[39m[16D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[1ma[0m[1ma[0m[38;2;153;153;153mpt install snapd[39m
-[K[A[5C[0m[4ma[39m[4mp[24m[1B[K[A[6C[24m[36ma[24m[36mp[36mt[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39ms[39mp[39m [39m [39m [1B[K[A[18Ca  [38;2;153;153;153mnapd[1B[39m[K[A[17C[39mn[1B[K[A[18C [39m [39m [39m [1B[K[A[17C[38;2;153;153;153mnapd[1B[39m[K[A[17C [39m [39m [39m [39m [1B[K[A[16C[38;2;153;153;153msnapd[1B[39m[K[A[16C[39m [39m [39m [39m [39m [1B[K[A[15C[38;2;153;153;153m snapd[1B[39m[K[A[15C [39m [39m [39m [39m [39m [39m [1B[K[A[14C[38;2;153;153;153ml snapd[1B[39m[K[A[14C [39m [39m [39m [39m [39m [39m [39m [1B[K[A[13C[38;2;153;153;153mll snapd[1B[39m[K[A[13C [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[12C[38;2;153;153;153mall snapd[1B[39m[K[A[12C [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[11C[38;2;153;153;153mtall snapd[1B[39m[K[A[11C [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[10C[38;2;153;153;153mstall snapd[1B[39m[K[A[10C [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[9C[38;2;153;153;153mnstall snapd[1B[39m[K[A[9C [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[8C[38;2;153;153;153minstall snapd[1B[39m[K[A[8C[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[7C[38;2;153;153;153m install snapd[1B[39m[K[A[7C[39m[4ma[39m[4mp[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[6C[38;2;153;153;153mt install snapd[1B[39m[K[A[6C[24m[1ma[0m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[5C[1ma[0m[38;2;153;153;153mpt install snapd[1B[39m[K[A[5C[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [1B[K[A[4C[4ms[24m[4ms[24m[38;2;153;153;153mpan install span[39m[16D[4ms[39m[4mn[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153map install hello-world[39m[22D[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;2;153;153;153m hello-world[39m[12D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[38;2;153;153;153ml hello-world[39m[13D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;2;153;153;153mll hello-world[39m[14D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153mall hello-world[39m[15D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[38;2;153;153;153mtall hello-world[39m[16D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[38;2;153;153;153mstall hello-world[39m[17D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [18D[38;2;153;153;153mnstall hello-world[39m[18D [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [19D[38;2;153;153;153minstall hello-world[39m[19D[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [20D[38;2;153;153;153m install hello-world[39m[20D[39m[4ms[39m[4mn[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [21D[38;2;153;153;153mp install hello-world[39m[21D[4ms[4mn[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[38;2;153;153;153map install hello-world[39m[22D[4ms[24m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [23D[4ms[24m[38;2;153;153;153mpan install span[39m[16D[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[4ms[24m[4ms[24m[38;2;153;153;153mpan install span[39m[16D[4ms[39m[4mn[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[38;2;153;153;153map install hello-world[39m[22D[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39mi[39mn[39ms[39mt[39ma[39ml[39ml[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[?1l>[?2004l[1Berror: the required argument `<snap> (at least 1 argument)` was not provided
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap install[39m[11D[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [39m [39m [39m [39m [39m [39m [39m [?1l>[?2004l
-The snap command lets you install, configure, refresh and remove snaps.
-Snaps are packages that work across many different Linux distributions,
-enabling secure delivery and operation of the latest apps and utilities.
-
-Usage: snap <command> [<options>...]
-
-Commonly used commands can be classified as follows:
-
-           Basics: find, info, install, remove, list
-          ...more: refresh, revert, switch, disable, enable, create-cohort
-          History: changes, tasks, abort, watch
-          Daemons: services, start, stop, restart, logs
-      Permissions: connections, interface, connect, disconnect
-    Configuration: get, set, unset, wait
-      App Aliases: alias, aliases, unalias, prefer
-          Account: login, logout, whoami
-        Snapshots: saved, save, check-snapshot, restore, forget
-           Device: model, reboot, recovery
-     Quota Groups: set-quota, remove-quota, quotas, quota
-  Validation Sets: validate
-        ... Other: warnings, okay, known, ack, version
-      Development: validate
-
-For more information about a command, run 'snap help <command>'.
-For a short summary of all commands, run 'snap help --all'.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap [39m[4ms[39m[4mn[24m[4ms[4mn[39m[4ma[24m[24m[36ms[24m[36mn[24m[36ma[36mp[39m[39m [1ma[0m[0mapt [1mu[0m[0mupdate[?1l>[?2004l
-error: unknown command "apt", see 'snap help'.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mnap apt update[39m                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mat typescript[39m[13D[0m[4mc[39m[4ma[24m[24m[36mc[24m[36ma[36mt[39m[39m[4mc[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;2;153;153;153mt typescript[39m[12D[24m[1mc[0m[24m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [13D[1mc[0m[38;2;153;153;153mat typescript[39m[13D[0m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[4mn[24m[4mn[24m[38;2;153;153;153metdiscover --help[39m[17D[4mn[39m[4ma[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [16D[4mn[4ma[4mn[24m[24m[36mn[24m[36ma[24m[36mn[36mo[39m[1m [0m[0m [1mc[0m[0m [1mt[0m[1mt[1my[0m[1my[1mp[0m[1mp[1mescript[0m[1m [0m[0m [?1l>[?2004l
-[?2004h[?1049h[22;0;0t[1;41r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[39;77H(B[0;7m[ Reading... ](B[m[39;75H(B[0;7m[ Read 966 lines ](B[m[H(B[0;7m  GNU nano 7.2                                                                  typescript                                                                            [1;165H(B[m[40d(B[0;7m^G(B[m Help[40;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[40;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[40;113H(B[0;7mM-A(B[m Set Mark    (B[0;7mM-](B[m To Bracket  (B[0;7mM-Q(B[m Previous[41d(B[0;7m^X(B[m Exit[41;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[41;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[41;113H(B[0;7mM-6(B[m Copy[41;129H(B[0;7m^Q(B[m Where Was    (B[0;7mM-W(B[m Next[2dScript started on 2023-12-07 18:12:03+05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="166" LINES="41"][7;166H(B[0;7m>[8;1H(B[0m[38;5;208m^M^[[39m(B[m[0m[38;5;208m^[[39m(B[m[27m[38;5;208m^[[39m(B[m[24m[38;5;208m^[[39m(B[m[J[38;5;208m^[[39m(B[m[32m┌──([38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34mamirjon㉿kali[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[32m)-[[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[39m~[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[32m][9d└─[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34m$[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[39m [38;5;208m^[[39m(B[m[K[38;5;208m^[[39m(B[m[?1h[38;5;208m^[[39m(B[m=[38;5;208m^[[39m(B[m[?2004h[38;5;208m^[[39m(B[m[?1l[38;5;208m^[[39m(B[m>[38;5;208m^[[39m(B[m[?2004l[38;5;208m^M[10;166H[39m(B[0;7m>[12;1H(B[0m[38;5;208m^M^[[39m(B[m[0m[38;5;208m^[[39m(B[m[27m[38;5;208m^[[39m(B[m[24m[38;5;208m^[[39m(B[m[J[38;5;208m^[[39m(B[m[32m┌──([38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34mamirjon㉿kali[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[32m)-[[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[39m~[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[32m][13d└─[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34m$[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[39m [38;5;208m^[[39m(B[m[K[38;5;208m^[[39m(B[m[?1h[38;5;208m^[[39m(B[m=[38;5;208m^[[39m(B[m[?2004h[38;5;208m^[[39m(B[m[?1l[38;5;208m^[[39m(B[m>[38;5;208m^[[39m(B[m[?2004l[38;5;208m^M[14;166H[39m(B[0;7m>[15;1H(B[0m[38;5;208m^M^[[39m(B[m[0m[38;5;208m^[[39m(B[m[27m[38;5;208m^[[39m(B[m[24m[38;5;208m^[[39m(B[m[J[38;5;208m^[[39m(B[m[32m┌──([38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34mamirjon㉿kali[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[32m)-[[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[39m~[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[32m][16d└─[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34m$[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[39m [38;5;208m^[[39m(B[m[K[38;5;208m^[[39m(B[m[?1h[38;5;208m^[[39m(B[m=[38;5;208m^[[39m(B[m[?2004h[38;5;208m^[[39m(B[m[?1l[38;5;208m^[[39m(B[m>[38;5;208m^[[39m(B[m[?2004l[38;5;208m^M[17;166H[39m(B[0;7m>[19;1H(B[0m[38;5;208m^M^[[39m(B[m[0m[38;5;208m^[[39m(B[m[27m[38;5;208m^[[39m(B[m[24m[38;5;208m^[[39m(B[m[J[38;5;208m^[[39m(B[m[32m┌──([38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34mamirjon㉿kali[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[32m)-[[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[39m~[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[32m][20d└─[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34m$[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[39m [38;5;208m^[[39m(B[m[K[38;5;208m^[[39m(B[m[?1h[38;5;208m^[[39m(B[m=[38;5;208m^[[39m(B[m[?2004h[38;5;208m^[[39m(B[m[?1l[38;5;208m^[[39m(B[m>[38;5;208m^[[39m(B[m[?2004l[38;5;208m^M[21;166H[39m(B[0;7m>[23;1H(B[0m[38;5;208m^M^[[39m(B[m[0m[38;5;208m^[[39m(B[m[27m[38;5;208m^[[39m(B[m[24m[38;5;208m^[[39m(B[m[J[38;5;208m^[[39m(B[m[32m┌──([38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34mamirjon㉿kali[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[32m)-[[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[39m~[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[32m][24d└─[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34m$[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[39m [38;5;208m^[[39m(B[m[K[38;5;208m^[[39m(B[m[?1h[38;5;208m^[[39m(B[m=[38;5;208m^[[39m(B[m[?2004h[38;5;208m^[[39m(B[m[?1l[38;5;208m^[[39m(B[m>[38;5;208m^[[39m(B[m[?2004l[38;5;208m^M[25;166H[39m(B[0;7m>[26;1H(B[0m[38;5;208m^M^[[39m(B[m[0m[38;5;208m^[[39m(B[m[27m[38;5;208m^[[39m(B[m[24m[38;5;208m^[[39m(B[m[J[38;5;208m^[[39m(B[m[32m┌──([38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34mamirjon㉿kali[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[32m)-[[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[39m~[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[32m][27d└─[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34m$[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[39m [38;5;208m^[[39m(B[m[K[38;5;208m^[[39m(B[m[?1h[38;5;208m^[[39m(B[m=[38;5;208m^[[39m(B[m[?2004h[38;5;208m^[[39m(B[m[?1l[38;5;208m^[[39m(B[m>[38;5;208m^[[39m(B[m[?2004l[38;5;208m^M[28;166H[39m(B[0;7m>[30;1H(B[0m[38;5;208m^M^[[39m(B[m[0m[38;5;208m^[[39m(B[m[27m[38;5;208m^[[39m(B[m[24m[38;5;208m^[[39m(B[m[J[38;5;208m^[[39m(B[m[32m┌──([38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34mamirjon㉿kali[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[32m)-[[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[39m~[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[32m][31d└─[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34m$[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[39m [38;5;208m^[[39m(B[m[K[38;5;208m^[[39m(B[m[?1h[38;5;208m^[[39m(B[m=[38;5;208m^[[39m(B[m[?2004h[38;5;208m^[[39m(B[m[?1l[38;5;208m^[[39m(B[m>[38;5;208m^[[39m(B[m[?2004l[38;5;208m^M[32;166H[39m(B[0;7m>[34;1H(B[0m[38;5;208m^M^[[39m(B[m[0m[38;5;208m^[[39m(B[m[27m[38;5;208m^[[39m(B[m[24m[38;5;208m^[[39m(B[m[J[38;5;208m^[[39m(B[m[32m┌──([38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34mamirjon㉿kali[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[32m)-[[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[39m~[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[32m][35d└─[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34m$[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[39m [38;5;208m^[[39m(B[m[K[38;5;208m^[[39m(B[m[?1h[38;5;208m^[[39m(B[m=[38;5;208m^[[39m(B[m[?2004h[38;5;208m^[[39m(B[m[?1l[38;5;208m^[[39m(B[m>[38;5;208m^[[39m(B[m[?2004l[38;5;208m^M[36;166H[39m(B[0;7m>[37;1H(B[0m[38;5;208m^M^[[39m(B[m[0m[38;5;208m^[[39m(B[m[27m[38;5;208m^[[39m(B[m[24m[38;5;208m^[[39m(B[m[J[38;5;208m^[[39m(B[m[32m┌──([38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34mamirjon㉿kali[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[32m)-[[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[39m~[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[32m][38d└─[38;5;208m^[[39m(B[m[1m[38;5;208m^[[39m(B[m[32m[38;5;208m^[[39m(B[m[34m$[38;5;208m^[[39m(B[m[0m[38;5;208m^[[39m(B[m[34m[38;5;208m^[[39m(B[m[39m [38;5;208m^[[39m(B[m[K[38;5;208m^[[39m(B[m[?1h[38;5;208m^[[39m(B[m=[38;5;208m^[[39m(B[m[?2004h[38;5;208m^[[39m(B[m[?1l[38;5;208m^[[39m(B[m>[38;5;208m^[[39m(B[m[?2004l[38;5;208m^M[2d[39m(B[m[?12l[?25h[?25l[39;50H(B[0;7m[ line   1/967 ( 0%), col  1/110 (  0%), char      0/148513 ( 0%) ](B[m[?12l[?25h[2d[?25l[39d[J[41d[?12l[?25h[41;1H[?1049l[23;0;0t[?1l>[?2004l                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mat typescript[39m[13D[0m[4mc[39m[4ml[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[38;2;153;153;153mear[39m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4mp[24m[4mp[24m[38;2;153;153;153msql[39m[24m[36mp[36mr[39m[39m [39m [39m[4mp[39m[4mr[4mi[24m[4mi[4mn[24m[24m[36mp[24m[36mr[24m[36mi[24m[36mn[36mt[39m[39m[4mp[39m[4mr[39m[4mi[39m[4mn[24m[39m [4mi[24m[24m [24m[36mp[24m[36mr[39m[24m [39m[4mp[24m[39m [4mp[24m[38;2;153;153;153msql[39m[24m [39m [39m [39m [4ms[24m[4ms[4mq[24m[4ms[4mq[4ml[24m[4ml[4ml[24m[4ml[4mi[24m[4mi[4mt[24m[4mt[4me[24m[?1l>[?2004l
-Command 'sqllite' not found, did you mean:
-  command 'sqlline' from deb sqlline
-Try: apt install <deb name>
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mqllite[39m[4ms[39m[4mq[24m[4ms[4mq[39m[4ml[24m[4ml[39m[4ml[24m[4ml[39m[4mi[24m[4mi[39m[4mt[24m[4mt[39m[4me[24m[?1l>[?2004l
-Command 'sqllite' not found, did you mean:
-  command 'sqlline' from deb sqlline
-Try: apt install <deb name>
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mqllite[39m[4ms[39m[4mq[24m[4ms[4mq[39m[4ml[24m[4ml[39m[4mi[24m[39m [39m [39m [4mi[4mt[24m[4mt[4me[24m[?1l>[?2004l
-Command 'sqlite' not found, did you mean:
-  command 'sqlitr' from snap sqlitr (0.1.23)
-  command 'sqlite3' from deb sqlite3
-  command 'dqlite' from deb go-dqlite
-See 'snap info <snapname>' for additional versions.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4msqlite[24m[4me[4mb[24m[4mb[4mr[24m[4mr[4mo[24m[4mo[4mw[24m[4mw[4ms[24m[4ms[4me[24m[12D[24m[36ms[24m[36mq[24m[36ml[24m[36mi[24m[36mt[24m[36me[24m[36mb[24m[36mr[24m[36mo[24m[36mw[24m[36ms[24m[36me[36mr[39m[13D[39m[4ms[39m[4mq[39m[4ml[39m[4mi[39m[4mt[39m[4me[39m[4mb[39m[4mr[39m[4mo[39m[4mw[39m[4ms[39m[4me[24m[39m [4ms[24m[24m [4mw[24m[24m [4mo[24m[24m [4mr[24m[24m [4mb[24m[24m [4me[24m[24m [4me[4ms[24m[4ms[4mh[24m[4mh[4me[24m[4me[4ml[24m[4ml[4ml[24m[4ml[24m[24m [4me[24m[24m [4mh[24m[24m [4ms[24m[24m [4me[24m[24m [4me[4mp[24m[4mp[4mo[24m[4mo[4mw[24m[4mw[4me[24m[4me[4mr[24m[4mr[4ms[24m[4ms[4mh[24m[4mh[4me[24m[4me[4ml[24m[4ml[4ml[24m[?1l>[?2004l
-sqlitepowershell: command not found
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[39m [?1l>[?2004l
-Command 'clea' not found, did you mean:
-  command 'clera' from snap clera (1.0)
-  command 'clear' from deb ncurses-bin
-  command 'clex' from deb clex
-  command 'cleo' from deb cleo
-See 'snap info <snapname>' for additional versions.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlea[39m[0m[4mc[39m[4ml[24m[4mc[4ml[39m[4me[24m[4me[39m[4ma[24m[24m[36mc[24m[36ml[24m[36me[24m[36ma[36mr[39m[?1l>[?2004l
-[H[2J[3J                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4mp[24m[4mp[24m[38;2;153;153;153msql[39m[4mp[39m[4mo[24m[39m [39m [38;2;153;153;153mstgresql[39m[8D[4mp[4mo[39m[4mw[24m[39m [39m [39m [39m [39m [39m [39m [4mw[4me[24m[4me[4mr[24m[4mr[4ms[24m[4ms[4mh[24m[4mh[4me[24m[4me[4ml[24m[4ml[4ml[24m[?1l>[?2004l
-Command 'powershell' not found, but can be installed with:
-snap install powershell
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mqlitepowershell[39m[15D[24m[36ms[36mh[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [14D[38;2;153;153;153m -c ‘echo “deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/bullseye/ pgadmin4 main” > /etc/apt/sources.list.d/pgadmin4.list && apt update’[39m[146D[39m[4ms[39m[4mh[39m[4me[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [145D[4me[4ml[24m[?1l>[?2004l
-Command 'shel' not found, did you mean:
-  command 'shed' from deb shed
-  command 'skel' from deb libadios-bin
-  command 'shelr' from deb shelr
-Try: apt install <deb name>
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[4ms[24m[4ms[24m[38;2;153;153;153mhel[39m[24m[36ms[36mh[39m[39m[4ms[39m[4mh[39m[4me[24m[4me[39m[4ml[24m[4ml[4ml[24m[?1l>[?2004l
-Command 'shell' not found, did you mean:
-  command 'bshell' from deb avahi-ui-utils
-  command 'shelr' from deb shelr
-  command 'spell' from deb spell
-Try: apt install <deb name>
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mlear[39m[0m[4mc[39m[4mm[24m[39m [39m [39m [4mc[4mm[4md[24m[?1l>[?2004l
-Command 'cmd' not found, but there are 14 similar ones.
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mmd[39m[0m[4mc[39m[4mm[24m[4mc[4mm[39m[4me[24m[4me[4ma[24m[4me[24m[24m [4mc[4mm[24m[24m [38;2;153;153;153md[39m[24m[1mc[0m[24m [39m [1mc[0m[38;2;153;153;153mmd[39m[0m[4mc[39m[4mk[24m[39m [38;2;153;153;153mear[39m[4mc[4mk[39m[4me[24m[4me[39m[4ma[24m[4ma[39m[4mr[24m[?1l>[?2004l
-Command 'ckear' not found, did you mean:
-  command 'clear' from deb ncurses-bin
-Try: apt install <deb name>
-                                                                                                                                                                      ]0;root@kali: /home/amirjon
-[0m[27m[24m[J[34m┌──([1m[34m[31mroot㉿kali[0m[31m[34m)-[[1m[34m[39m/home/amirjon[0m[34m]
-└─[1m[34m[31m#[0m[31m[39m [K[?1h=[?2004h[1mc[0m[1mc[0m[38;2;153;153;153mkear[39m[0m[4mc[39m[4mk[24m[4mc[4mk[39m[4me[24m[4me[39m[4ma[24m[4me[24m[24m [39m [38;2;153;153;153mar[39m[4mc[4mk[24m[24m [39m [39m [38;2;153;153;153mear[39m
