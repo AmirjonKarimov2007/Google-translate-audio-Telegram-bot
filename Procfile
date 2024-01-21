@@ -1,1 +1,1 @@
-web: gunicorn telegram_bot.wsgi:application
+web: gunicorn telegram_bot.wsgi.application
