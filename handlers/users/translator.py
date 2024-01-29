@@ -2,17 +2,26 @@ import requests
 from aiogram.types import InputFile
 from aiogram.utils import executor
 from aiogram import types
-from loader import dp,bot,db
+from loader import dp, bot, db
 from io import BytesIO
+from googletrans import Translator
+from langdetect import detect
+from aiogram.types import ParseMode
+Translator = Translator()
+
 async def get_translation(word):
     api_url = f"https://api.dictionaryapi.dev/api/v2/entries/en/{word}"
     response = requests.get(api_url)
     data = response.json()
     return data
 
+
+
+
 @dp.message_handler()
 async def translate(message: types.Message):
     word = message.text.lower()
+    
     translation_data = await get_translation(word)
 
     if not translation_data:
@@ -53,3 +62,7 @@ async def translate(message: types.Message):
             if audio_response.status_code == 200:
                 audio_content = BytesIO(audio_response.content)
                 await message.reply_audio(InputFile(audio_content, filename="pronunciation.mp3"))
+
+if __name__ == '__main__':
+    from aiogram import executor
+    executor.start_polling(dp, skip_updates=True)
