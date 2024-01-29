@@ -15,4 +15,4 @@ DB_PORT = env.int("DB_PORT")
 
 
 
-CHANNELS = ['@Amirjon_Karimov_Blog_Discussion']
+CHANNELS = ['@Amirjon_Karimov_Blog']

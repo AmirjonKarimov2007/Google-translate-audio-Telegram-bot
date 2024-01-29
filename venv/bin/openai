@@ -1,4 +1,4 @@
-#!/home/amirjon/Telegram_Channel's_Bot/shablon/venv/bin/python
+#!/home/amirjon/Telegram_Channels_Bot/google-translate-Telegram-Bot/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

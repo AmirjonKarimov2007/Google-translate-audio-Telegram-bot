@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/amirjon/Telegram_Channel's_Bot/shablon/venv"
+VIRTUAL_ENV="/home/amirjon/Telegram_Channels_Bot/google-translate-Telegram-Bot/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
